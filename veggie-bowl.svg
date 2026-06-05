@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Veggie Bowl">
+  <rect width="400" height="400" fill="#FAFAF7"/>
+  <ellipse cx="200" cy="322" rx="118" ry="20" fill="#000" opacity="0.06"/>
+  <path d="M84 200 Q200 358 316 200 Z" fill="#ffffff" stroke="#e6e2d8" stroke-width="3"/>
+  <ellipse cx="200" cy="200" rx="116" ry="26" fill="#ffffff" stroke="#e6e2d8" stroke-width="3"/>
+  <ellipse cx="200" cy="200" rx="98" ry="20" fill="#f3efe4"/>
+  <ellipse cx="200" cy="194" rx="96" ry="19" fill="#fbf8ef"/>
+  <!-- purple cabbage -->
+  <circle cx="150" cy="192" r="14" fill="#8e5aa8"/>
+  <circle cx="164" cy="200" r="11" fill="#a06bbd"/>
+  <!-- carrot sticks -->
+  <rect x="180" y="178" width="10" height="24" rx="4" fill="#ef8b2c" transform="rotate(-18 185 190)"/>
+  <rect x="192" y="180" width="10" height="24" rx="4" fill="#f59c45" transform="rotate(-8 197 192)"/>
+  <!-- cherry tomato -->
+  <circle cx="232" cy="184" r="11" fill="#e2493b"/>
+  <circle cx="228" cy="180" r="3" fill="#f0857b"/>
+  <!-- corn -->
+  <circle cx="248" cy="198" r="6" fill="#f6c945"/>
+  <circle cx="258" cy="194" r="6" fill="#f6c945"/>
+  <circle cx="240" cy="202" r="6" fill="#f6c945"/>
+  <!-- broccoli -->
+  <circle cx="210" cy="186" r="8" fill="#5fb15a"/>
+  <circle cx="218" cy="192" r="7" fill="#7cc36f"/>
+  <!-- edamame -->
+  <circle cx="174" cy="202" r="6" fill="#8bc34a"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Tuna Bowl">
+  <rect width="400" height="400" fill="#FAFAF7"/>
+  <ellipse cx="200" cy="322" rx="118" ry="20" fill="#000" opacity="0.06"/>
+  <path d="M84 200 Q200 358 316 200 Z" fill="#ffffff" stroke="#e6e2d8" stroke-width="3"/>
+  <ellipse cx="200" cy="200" rx="116" ry="26" fill="#ffffff" stroke="#e6e2d8" stroke-width="3"/>
+  <ellipse cx="200" cy="200" rx="98" ry="20" fill="#f3efe4"/>
+  <ellipse cx="200" cy="194" rx="96" ry="19" fill="#fbf8ef"/>
+  <!-- avocado slices -->
+  <path d="M150 198 q-16 -10 0 -20 q16 10 0 20 Z" fill="#86b94f"/>
+  <path d="M162 200 q-16 -10 0 -20 q16 10 0 20 Z" fill="#9ccc63"/>
+  <!-- tuna cubes -->
+  <rect x="186" y="176" width="22" height="22" rx="4" fill="#e96a6a"/>
+  <rect x="210" y="184" width="20" height="20" rx="4" fill="#e2585f"/>
+  <rect x="200" y="172" width="20" height="20" rx="4" fill="#ef7d7d"/>
+  <!-- edamame -->
+  <circle cx="244" cy="192" r="7" fill="#7cb342"/>
+  <circle cx="256" cy="198" r="7" fill="#8bc34a"/>
+  <!-- cucumber -->
+  <circle cx="160" cy="204" r="9" fill="#aed581"/>
+  <circle cx="160" cy="204" r="4" fill="#dcedc8"/>
+  <!-- sesame -->
+  <circle cx="198" cy="198" r="2" fill="#3a3a3a"/>
+  <circle cx="222" cy="194" r="2" fill="#caa45a"/>
+  <circle cx="178" cy="196" r="2" fill="#3a3a3a"/>
+</svg>
